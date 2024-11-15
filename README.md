@@ -2,7 +2,7 @@
 
 **CalcForge** is an open-source framework that provides Python packages for various Civil, Mechanical, Electrical Engineering, and other STEM-related calculations. Our goal is to create a powerful collection of tools for engineers, researchers, and students to perform robust structural, mechanical, and electrical analyses with ease. The project is continuously evolving to serve the needs of the community, with contributions from various experts.
 
-[Click here to access CalcForge](https://calcforge.com/)
+[Click here to access CalcForge web software](https://calcforge.com/)
 
 
 
